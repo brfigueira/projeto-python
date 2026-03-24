@@ -1,0 +1,10 @@
+"""
+> MAIOR
+< MENOR
+>= MAIOR OU IGUAL
+<= MENOR OU IGUAL
+== IGUAL
+!= DIFERENTE
+"""
+
+print(10>5)
